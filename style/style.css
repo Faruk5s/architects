@@ -162,10 +162,17 @@ nav li a{
         color: #FFF;
         width: 342;
         padding: 40px;
+        text-align: center;
+        position: relative;
+        
         
     }
     .ten-years-badge h3{
         font-size: 4rem;
+        margin: 0;
+    }
+    .ten-years-badge p{
+        text-align: center;
     }
 
 
